@@ -48,3 +48,4 @@ Update l ← (l + 1) mod ((n + batch size − 1)/batch size)
 Update k ← k + 1 end
 while
 
+A comparison of plot and its interpretation, along with convergence times are shown in pdf
